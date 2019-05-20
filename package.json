@@ -1,0 +1,23 @@
+{
+  "name": "session-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molysulfur/session-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/molysulfur/session-nodejs/issues"
+  },
+  "homepage": "https://github.com/molysulfur/session-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.0",
+    "express-session": "^1.16.1"
+  }
+}
